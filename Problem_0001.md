@@ -10,8 +10,8 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 First of all it reminds me of the "FizzBuzz" game. The solution is also going to be a simple one.
 
 - Just initialise a variable `sum = 0`.
-- Loop over each number in the range `[1, 1000)`.
-- If the number is either a multiple of `3` or `5`, add it to the `sum`.
+- Loop over each integer in the range `[1, 1000)`.
+- If the number is a multiple of either `3` or `5`, add it to the `sum`.
 - Declare the final value of the `sum` as the answer.
 
 ## Code
