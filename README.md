@@ -4,3 +4,4 @@
 ## Problems and Solutions
 - [Problem 1 - Multiples of 3 or 5](Problem_0001.md)
 - [Problem 2 - Even Fibonacci Numbers](Problem_0002.md)
+- [Problem 3 - Largest Prime Factor](Problem_0003.md)
