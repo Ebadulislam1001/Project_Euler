@@ -6,3 +6,4 @@
 - [Problem 2 - Even Fibonacci Numbers](Problem_0002.md)
 - [Problem 3 - Largest Prime Factor](Problem_0003.md)
 - [Problem 4 - Largest Palindrome Product](Problem_0004.md)
+- [Problem 5 - Smallest Multiple](Problem_0005.md)
