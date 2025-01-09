@@ -53,10 +53,6 @@ In addition, since we just want the _Largest Palindrome Product_, we can do our 
 ### Code
 ```Python
 # Python
-import math
-import time
-
-start = time.perf_counter()
 
 def is_product(num):
     for f in range(100, int(math.sqrt(num) + 1)):
